@@ -1,5 +1,5 @@
-# Final Project: House Price Analysis
-In this project, we conduct the experiment of PCA on Food texture data to represent data into low-dimensional space.
+# Using PCA to analyze the food texture data
+In this project, we conduct the experiment of PCA on Food texture data to represent data into low-dimensional space. Then explore the meaning of each component in term of describing entire data.
 
 ## Environment
 Project is created with:
